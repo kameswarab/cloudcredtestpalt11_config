@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: master-service
-        image: 889945364708.dkr.ecr.ap-south-1.amazonaws.com/cloudcredtestpalt11/master-service:1-0-2
+        image: 889945364708.dkr.ecr.ap-south-1.amazonaws.com/cloudcredtestpalt11/master-service:1-0-8
         ports:
         - containerPort: 8090
 ---
